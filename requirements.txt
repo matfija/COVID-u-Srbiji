@@ -1,0 +1,3 @@
+hmmlearn>=0.2.5
+matplotlib>=3.4.2
+covid-daily>=1.3.0
